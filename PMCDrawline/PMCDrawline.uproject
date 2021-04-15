@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FC5391F4-4383-398E-A256-A28585D38F39}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PMCDrawline",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
